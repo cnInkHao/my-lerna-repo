@@ -1,15 +1,12 @@
 {
   "name": "my-lerna-module",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "gitHead": "18d8966df3479106b812ac975cb15f1134fb2800",
-  "dependencies": {
-    "cross-env": "^7.0.2"
-  }
+  "license": "ISC"
 }
