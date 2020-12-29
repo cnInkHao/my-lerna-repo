@@ -12,5 +12,6 @@
   "dependencies": {
     "cross-env": "^7.0.3",
     "my-lerna-module": "^1.0.0"
-  }
+  },
+  "gitHead": "bf8d93481ea436ec0efe5ff5e7bce7d6e3848326"
 }
